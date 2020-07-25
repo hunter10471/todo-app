@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background: url("todo.png") center no-repeat;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    ;
+}
+
+.styling{
+    margin: 100px;
+    border: grey;
+    border-radius: 20px;
+
+}
+.styling.button{
+color: black;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: gray;
+margin: 20px;
+
+}
+.styling.ul.li{
+    margin: 10px;
+    border: black 5px;
+
+}
+.stylo{
+    margin: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: green;
+    color: lightblue;
+}
